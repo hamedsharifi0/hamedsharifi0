@@ -1,0 +1,4 @@
+- 👋 Hi, I’m hamed sharifi
+- 👀 I’m interested in front_end
+- 🌱 I’m currently learning react.js
+- 📫 @hamedsharifi0 is my telegram account
